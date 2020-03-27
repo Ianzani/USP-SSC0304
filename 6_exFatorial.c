@@ -1,3 +1,5 @@
+// Author: LDFranck
+
 #include <stdio.h>
 #include <stdlib.h>
 
