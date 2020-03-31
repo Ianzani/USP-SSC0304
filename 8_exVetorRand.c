@@ -1,4 +1,4 @@
-// Author: LDFranck - 11845726
+// Author: LDFranck
 
 #include <stdio.h>
 #include <stdlib.h>
