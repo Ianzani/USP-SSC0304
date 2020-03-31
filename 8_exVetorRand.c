@@ -17,7 +17,7 @@ int main(){
 		vetor[i] = rand()%20;
 		iMaior = (vetor[iMaior]>vetor[i])?iMaior:i;
 		iSegMaior = (vetor[iMaior]>vetor[iSegMaior] && vetor[iSegMaior]>vetor[i])?iSegMaior:i;
-	
+		
 	}
 	
 	printf("Vetor: ");
@@ -27,6 +27,5 @@ int main(){
 	printf("Maior valor: %d\n", vetor[iMaior]);
 	printf("Segundo maior valor: %d\n", vetor[iSegMaior]);
 	
-	system("pause");
-	
+	system("pause");	
 }
