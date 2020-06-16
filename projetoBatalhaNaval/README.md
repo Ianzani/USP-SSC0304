@@ -1,6 +1,6 @@
 # Jogo Batalha Naval
 
-#### Autores:
+#### > Autores:
 * ####Ian Zaniolo Sirbone (Ianzani)
 * ####Lucas Daudt Franck  (LDFranck)
 
