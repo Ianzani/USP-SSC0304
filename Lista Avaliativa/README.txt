@@ -1,5 +1,5 @@
 Aluno:
-Lucas Daudt Franck (LDFranck) - n° USP: 11845726
+Lucas Daudt Franck (LDFranck)
 
 Exercícios:
 1) O valor de y é 4.
